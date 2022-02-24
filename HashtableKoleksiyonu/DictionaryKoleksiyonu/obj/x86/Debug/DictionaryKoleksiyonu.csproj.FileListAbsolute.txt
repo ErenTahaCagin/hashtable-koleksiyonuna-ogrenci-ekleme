@@ -1,0 +1,14 @@
+c:\users\kullanıcı\documents\visual studio 2010\Projects\DictionaryKoleksiyonu\DictionaryKoleksiyonu\bin\Debug\DictionaryKoleksiyonu.exe
+c:\users\kullanıcı\documents\visual studio 2010\Projects\DictionaryKoleksiyonu\DictionaryKoleksiyonu\bin\Debug\DictionaryKoleksiyonu.pdb
+c:\users\kullanıcı\documents\visual studio 2010\Projects\DictionaryKoleksiyonu\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.Form1.resources
+c:\users\kullanıcı\documents\visual studio 2010\Projects\DictionaryKoleksiyonu\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.Properties.Resources.resources
+c:\users\kullanıcı\documents\visual studio 2010\Projects\DictionaryKoleksiyonu\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.csproj.GenerateResource.Cache
+c:\users\kullanıcı\documents\visual studio 2010\Projects\DictionaryKoleksiyonu\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.exe
+c:\users\kullanıcı\documents\visual studio 2010\Projects\DictionaryKoleksiyonu\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.pdb
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\DictionaryKoleksiyonu - Kopya\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.exe
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\DictionaryKoleksiyonu - Kopya\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.pdb
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\DictionaryKoleksiyonu - Kopya\DictionaryKoleksiyonu\bin\Debug\DictionaryKoleksiyonu.exe
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\DictionaryKoleksiyonu - Kopya\DictionaryKoleksiyonu\bin\Debug\DictionaryKoleksiyonu.pdb
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\DictionaryKoleksiyonu - Kopya\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.Form1.resources
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\DictionaryKoleksiyonu - Kopya\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.Properties.Resources.resources
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\DictionaryKoleksiyonu - Kopya\DictionaryKoleksiyonu\obj\x86\Debug\DictionaryKoleksiyonu.csproj.GenerateResource.Cache
